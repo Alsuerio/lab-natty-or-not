@@ -20,32 +20,32 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto: E-book com temas da regulação da IA na sociedade)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+coloquei esse tema em três IA,s para saber qual eram as respostas de cada uma
+A regulação da inteligência artificial é crucial para garantir que seu desenvolvimento seja seguro e benéfico para a socidade
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Liste as IAs Generativas:
+- CHATGPT
+- GEMINI
+- COPILOT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Confome o link abaixo: https://www.gov.br/mcti/pt-br
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
+Cada IA mostrou conteúdos diferentes, mas conclusões semelhantes
+``
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
+https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/transformacaodigital/arquivosinteligenciaartificial/ebia-documento_referencia_4-979_2021.pdf
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+![img2](https://github.com/user-attachments/assets/e1ec854e-881e-44c7-be9c-b477480e9a95)
